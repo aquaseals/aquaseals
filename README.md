@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi!
+- 👋 Hello, I’m Haya!
+- 👀 I’m interested in AI, web development and making games
+- 🌱 I’m currently learning Jekyll and Sass
+
+## Hackatime Stats
+![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1217&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **aquaseals/aquaseals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
