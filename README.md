@@ -1,7 +1,7 @@
 ## Hi!
 - 👋 Hello, I’m Haya!
 - 👀 I’m interested in AI, web development and making games
-- 🌱 I’m currently learning Java and Pygame
+- 🌱 I’m currently learning React + Ruby on Rails!
 
 ## Hackatime Stats
 ![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1217&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
